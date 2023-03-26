@@ -1,4 +1,4 @@
-# ‏Airbnb CSS / Sass راهنمای سبک
+# ‏راهنمای سبک Airbnb CSS / Sass 
 
 *یک رویکرد عمدتا معقول به CSS و Sass*
 
@@ -275,7 +275,7 @@ function ListingCard() {
 .page-container {
   .content {
     .profile {
-      // ‎توقف کنید!
+      // ‎!توقف کنید
     }
   }
 }
